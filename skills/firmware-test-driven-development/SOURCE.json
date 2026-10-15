@@ -1,0 +1,17 @@
+{
+  "repo": "superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "license": "MIT",
+  "source_path": "skills/test-driven-development",
+  "name": "firmware-test-driven-development",
+  "group": "开发流程",
+  "mode": "adapted-extract",
+  "commit": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+  "source_url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/test-driven-development",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d"
+}

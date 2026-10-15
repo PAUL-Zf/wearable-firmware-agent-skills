@@ -1,0 +1,16 @@
+{
+  "repo": "cmsis-skills",
+  "url": "https://github.com/Open-CMSIS-Pack/cmsis-skills",
+  "license": "Apache-2.0",
+  "source_path": "generic-mcu-skills/skills/bring-up/debug-knowledge",
+  "name": "debug-knowledge",
+  "group": "CMSIS 与 bring-up",
+  "mode": "selected-copy",
+  "commit": "25c2085a810ee531cc13df9d34ce2768cd84c421",
+  "source_url": "https://github.com/Open-CMSIS-Pack/cmsis-skills/tree/25c2085a810ee531cc13df9d34ce2768cd84c421/generic-mcu-skills/skills/bring-up/debug-knowledge",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "a1abea754f369763d39ab5e430dee57d725d9b71be88e9a5315e3d85ea52c454"
+}

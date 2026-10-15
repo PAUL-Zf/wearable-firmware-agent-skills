@@ -1,0 +1,16 @@
+{
+  "repo": "cmsis-skills",
+  "url": "https://github.com/Open-CMSIS-Pack/cmsis-skills",
+  "license": "Apache-2.0",
+  "source_path": "generic-mcu-skills/skills/project/identify-cmsis-board-layer",
+  "name": "identify-cmsis-board-layer",
+  "group": "CMSIS 与 bring-up",
+  "mode": "selected-copy",
+  "commit": "25c2085a810ee531cc13df9d34ce2768cd84c421",
+  "source_url": "https://github.com/Open-CMSIS-Pack/cmsis-skills/tree/25c2085a810ee531cc13df9d34ce2768cd84c421/generic-mcu-skills/skills/project/identify-cmsis-board-layer",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "98da81062cbaeebc111331c9f01cd07bfa5a86a9d199a52d0defe45016548f54"
+}

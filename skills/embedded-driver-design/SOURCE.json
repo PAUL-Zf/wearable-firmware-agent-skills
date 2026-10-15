@@ -1,0 +1,16 @@
+{
+  "repo": "embedded-skills",
+  "url": "https://github.com/rovinax/embedded-skills",
+  "license": "MIT",
+  "source_path": "skills/embedded-driver-design",
+  "name": "embedded-driver-design",
+  "group": "固件设计",
+  "mode": "selected-copy",
+  "commit": "022ce31b469b1a1d0c1261c2c8d0f3e07b2c0bbc",
+  "source_url": "https://github.com/rovinax/embedded-skills/tree/022ce31b469b1a1d0c1261c2c8d0f3e07b2c0bbc/skills/embedded-driver-design",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "633748304296ccb8e772425a7b64fedbea07c9cc14b324cc39ad9bc997886db7"
+}

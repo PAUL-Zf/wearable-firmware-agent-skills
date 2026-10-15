@@ -1,0 +1,17 @@
+{
+  "repo": "superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "license": "MIT",
+  "source_path": "skills/systematic-debugging",
+  "name": "firmware-systematic-debugging",
+  "group": "开发流程",
+  "mode": "adapted-extract",
+  "commit": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+  "source_url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/systematic-debugging",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202"
+}

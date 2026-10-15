@@ -1,0 +1,17 @@
+{
+  "repo": "CMSIS-Developer-Assistant",
+  "url": "https://github.com/Open-CMSIS-Pack/CMSIS-Developer-Assistant",
+  "license": "Apache-2.0 OR MIT",
+  "source_path": "skills/cmsis-debugger-setup",
+  "name": "cmsis-debugger-setup",
+  "group": "CMSIS MCP 集成",
+  "mode": "selected-copy",
+  "commit": "29d444ce38a6574a7763566a9c32902ac3181fca",
+  "source_url": "https://github.com/Open-CMSIS-Pack/CMSIS-Developer-Assistant/tree/29d444ce38a6574a7763566a9c32902ac3181fca/skills/cmsis-debugger-setup",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Declared CMSIS MCP/VS Code dependencies and scoped hardware actions to the user task.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "14f289a0a8fb3f74c6f198505656412e8abcc445a7888b253a7d90b8f9da893b"
+}

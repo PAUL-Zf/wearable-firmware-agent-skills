@@ -1,0 +1,16 @@
+{
+  "repo": "embedded-skills",
+  "url": "https://github.com/rovinax/embedded-skills",
+  "license": "MIT",
+  "source_path": "skills/embedded-rtos-design",
+  "name": "embedded-rtos-design",
+  "group": "固件设计",
+  "mode": "selected-copy",
+  "commit": "022ce31b469b1a1d0c1261c2c8d0f3e07b2c0bbc",
+  "source_url": "https://github.com/rovinax/embedded-skills/tree/022ce31b469b1a1d0c1261c2c8d0f3e07b2c0bbc/skills/embedded-rtos-design",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "894e75a646c44e54447933cd67c494e9a6712529b82837da962893f19afdb0d6"
+}

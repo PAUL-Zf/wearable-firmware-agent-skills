@@ -1,0 +1,18 @@
+{
+  "repo": "CMSIS-Developer-Assistant",
+  "url": "https://github.com/Open-CMSIS-Pack/CMSIS-Developer-Assistant",
+  "license": "Apache-2.0 OR MIT",
+  "source_path": "skills/cmsis-pack-docs",
+  "name": "cmsis-pack-docs",
+  "group": "CMSIS MCP 集成",
+  "mode": "selected-copy",
+  "commit": "29d444ce38a6574a7763566a9c32902ac3181fca",
+  "source_url": "https://github.com/Open-CMSIS-Pack/CMSIS-Developer-Assistant/tree/29d444ce38a6574a7763566a9c32902ac3181fca/skills/cmsis-pack-docs",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Declared CMSIS MCP/VS Code dependencies and scoped hardware actions to the user task.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links.",
+    "Adjusted portable trigger metadata or mandatory local dependency link after final validation."
+  ],
+  "original_skill_sha256": "244282bfe6c457fa943a02548023eb41acb38d79ef8ba607be7b28580de9c856"
+}

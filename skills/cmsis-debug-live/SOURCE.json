@@ -1,0 +1,17 @@
+{
+  "repo": "CMSIS-Developer-Assistant",
+  "url": "https://github.com/Open-CMSIS-Pack/CMSIS-Developer-Assistant",
+  "license": "Apache-2.0 OR MIT",
+  "source_path": "skills/cmsis-debug-live",
+  "name": "cmsis-debug-live",
+  "group": "CMSIS MCP 集成",
+  "mode": "selected-copy",
+  "commit": "29d444ce38a6574a7763566a9c32902ac3181fca",
+  "source_url": "https://github.com/Open-CMSIS-Pack/CMSIS-Developer-Assistant/tree/29d444ce38a6574a7763566a9c32902ac3181fca/skills/cmsis-debug-live",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Declared CMSIS MCP/VS Code dependencies and scoped hardware actions to the user task.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "d85c66d10dc9b27a5d4693e89ffcb80322fa8b04bff14fd5113b5c7141fb0583"
+}

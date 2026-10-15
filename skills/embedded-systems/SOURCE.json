@@ -1,0 +1,17 @@
+{
+  "repo": "claude-skills",
+  "url": "https://github.com/Jeffallan/claude-skills",
+  "license": "MIT",
+  "source_path": "skills/embedded-systems",
+  "name": "embedded-systems",
+  "group": "MCU",
+  "mode": "adapted-extract",
+  "commit": "1be15d8064f88fc25216442406d40add8fd23b53",
+  "source_url": "https://github.com/Jeffallan/claude-skills/tree/1be15d8064f88fc25216442406d40add8fd23b53/skills/embedded-systems",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "536161470752d40a2bfc3ec4b17ab5c34fd3593a8960bf8089b0ea59b6ddec1f"
+}

@@ -1,0 +1,18 @@
+{
+  "repo": "embedded-skills",
+  "url": "https://github.com/rovinax/embedded-skills",
+  "license": "MIT",
+  "source_path": "skills/embedded-isr-design",
+  "name": "embedded-isr-design",
+  "group": "固件设计",
+  "mode": "adapted-extract",
+  "commit": "022ce31b469b1a1d0c1261c2c8d0f3e07b2c0bbc",
+  "source_url": "https://github.com/rovinax/embedded-skills/tree/022ce31b469b1a1d0c1261c2c8d0f3e07b2c0bbc/skills/embedded-isr-design",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Replaced known incorrect or oversimplified upstream examples with target-checked engineering steps; see MIGRATION.md.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "047803f8bb610769786c76cf9c3c9e99eb6ab428431ad1d8a2967e39b0c90f23"
+}
