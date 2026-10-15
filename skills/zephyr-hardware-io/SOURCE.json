@@ -1,0 +1,18 @@
+{
+  "repo": "zephyr-agent-skills",
+  "url": "https://github.com/beriberikix/zephyr-agent-skills",
+  "license": "Apache-2.0",
+  "source_path": "skills/hardware-io",
+  "name": "zephyr-hardware-io",
+  "group": "Zephyr",
+  "mode": "adapted-extract",
+  "commit": "ed63cdfb8cdfbeb5946ea39c33f4aa6bcf3a5cce",
+  "source_url": "https://github.com/beriberikix/zephyr-agent-skills/tree/ed63cdfb8cdfbeb5946ea39c33f4aa6bcf3a5cce/skills/hardware-io",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Added pinned-version contract for Zephyr APIs/Kconfig/devicetree and device PM ownership.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links.",
+    "Corrected concrete forward-test findings; see MIGRATION.md."
+  ],
+  "original_skill_sha256": "4b71c161e4e3e18abcc80798bdc3e5a8f27ec1e42c2d96133fcf8765acd3fd19"
+}

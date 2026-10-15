@@ -1,0 +1,17 @@
+{
+  "repo": "zephyr-agent-skills",
+  "url": "https://github.com/beriberikix/zephyr-agent-skills",
+  "license": "Apache-2.0",
+  "source_path": "skills/kernel-services",
+  "name": "zephyr-kernel-services",
+  "group": "Zephyr",
+  "mode": "selected-copy",
+  "commit": "ed63cdfb8cdfbeb5946ea39c33f4aa6bcf3a5cce",
+  "source_url": "https://github.com/beriberikix/zephyr-agent-skills/tree/ed63cdfb8cdfbeb5946ea39c33f4aa6bcf3a5cce/skills/kernel-services",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Added pinned-version contract for Zephyr APIs/Kconfig/devicetree and device PM ownership.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "7e21fdb36032007b14dd3aab2b74938f4f6f1746c6b882998f619a99b07c4ea4"
+}

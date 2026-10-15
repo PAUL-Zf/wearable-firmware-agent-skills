@@ -1,0 +1,17 @@
+{
+  "repo": "zephyr-agent-skills",
+  "url": "https://github.com/beriberikix/zephyr-agent-skills",
+  "license": "Apache-2.0",
+  "source_path": "skills/zephyr-foundations",
+  "name": "zephyr-foundations",
+  "group": "Zephyr",
+  "mode": "selected-copy",
+  "commit": "ed63cdfb8cdfbeb5946ea39c33f4aa6bcf3a5cce",
+  "source_url": "https://github.com/beriberikix/zephyr-agent-skills/tree/ed63cdfb8cdfbeb5946ea39c33f4aa6bcf3a5cce/skills/zephyr-foundations",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Added pinned-version contract for Zephyr APIs/Kconfig/devicetree and device PM ownership.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "5c9ab1cedb0e5b762bc23badccb2b3271221c443244c1d6b50a5a62c818d714c"
+}

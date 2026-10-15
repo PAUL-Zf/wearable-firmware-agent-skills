@@ -1,0 +1,17 @@
+{
+  "repo": "embedded-systems-architect",
+  "url": "https://github.com/Zachariah9420/embedded-systems-architect",
+  "license": "MIT",
+  "source_path": ".",
+  "name": "wearable-architecture-evidence",
+  "group": "架构与证据",
+  "mode": "adapted-extract",
+  "commit": "623f09b2f82bcbbb2516f0cb79a7bbc49bd13be0",
+  "source_url": "https://github.com/Zachariah9420/embedded-systems-architect/tree/623f09b2f82bcbbb2516f0cb79a7bbc49bd13be0/.",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "5781016971f2388e0af51cb7b79740139a1701483829ee065be93bf7dfaff6ee"
+}

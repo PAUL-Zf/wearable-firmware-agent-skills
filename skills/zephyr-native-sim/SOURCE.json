@@ -1,0 +1,17 @@
+{
+  "repo": "zephyr-agent-skills",
+  "url": "https://github.com/beriberikix/zephyr-agent-skills",
+  "license": "Apache-2.0",
+  "source_path": "skills/native-sim",
+  "name": "zephyr-native-sim",
+  "group": "Zephyr",
+  "mode": "selected-copy",
+  "commit": "ed63cdfb8cdfbeb5946ea39c33f4aa6bcf3a5cce",
+  "source_url": "https://github.com/beriberikix/zephyr-agent-skills/tree/ed63cdfb8cdfbeb5946ea39c33f4aa6bcf3a5cce/skills/native-sim",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Added pinned-version contract for Zephyr APIs/Kconfig/devicetree and device PM ownership.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "c599843e5a35949497bc4ee78f778be9a3b5b2c6f344e07a2ca60be278238b32"
+}
