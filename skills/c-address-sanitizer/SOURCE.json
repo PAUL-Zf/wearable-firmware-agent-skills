@@ -1,0 +1,19 @@
+{
+  "repo": "trailofbits-skills",
+  "url": "https://github.com/trailofbits/skills",
+  "license": "CC-BY-SA-4.0",
+  "source_path": "plugins/testing-handbook-skills/skills/address-sanitizer",
+  "name": "c-address-sanitizer",
+  "group": "C 主机测试",
+  "mode": "adapted-extract",
+  "commit": "8e54050ae63c2f62224c35b1616efe71865b4777",
+  "source_url": "https://github.com/trailofbits/skills/tree/8e54050ae63c2f62224c35b1616efe71865b4777/plugins/testing-handbook-skills/skills/address-sanitizer",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Restricted to host-testable C/C++ firmware and removed Rust integrations; corrected virtual-address/RSS confusion where present.",
+    "Replaced known incorrect or oversimplified upstream examples with target-checked engineering steps; see MIGRATION.md.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "eb9ea8210fa55d50477fbe52993a704e320c88739c10d619864b6ce377ebce25"
+}

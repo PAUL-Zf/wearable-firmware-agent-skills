@@ -1,0 +1,16 @@
+{
+  "repo": "cmsis-skills",
+  "url": "https://github.com/Open-CMSIS-Pack/cmsis-skills",
+  "license": "Apache-2.0",
+  "source_path": "generic-mcu-skills/skills/project/check-cmsis-environment",
+  "name": "check-cmsis-environment",
+  "group": "CMSIS 与 bring-up",
+  "mode": "selected-copy",
+  "commit": "25c2085a810ee531cc13df9d34ce2768cd84c421",
+  "source_url": "https://github.com/Open-CMSIS-Pack/cmsis-skills/tree/25c2085a810ee531cc13df9d34ce2768cd84c421/generic-mcu-skills/skills/project/check-cmsis-environment",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "65974a21975a430519c944961dd07350ab3b9d738f047979414e4482e61c5579"
+}

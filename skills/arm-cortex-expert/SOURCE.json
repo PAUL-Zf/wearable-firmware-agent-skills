@@ -1,0 +1,18 @@
+{
+  "repo": "agentic-awesome-skills",
+  "url": "https://github.com/sickn33/agentic-awesome-skills",
+  "license": "MIT",
+  "source_path": "plugins/agentic-awesome-skills-claude/skills/arm-cortex-expert",
+  "name": "arm-cortex-expert",
+  "group": "C 与 Cortex-M",
+  "mode": "adapted-extract",
+  "commit": "a3072641b750a1fb2f6ce695a5f984ea3d4c3ec1",
+  "source_url": "https://github.com/sickn33/agentic-awesome-skills/tree/a3072641b750a1fb2f6ce695a5f984ea3d4c3ec1/plugins/agentic-awesome-skills-claude/skills/arm-cortex-expert",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Replaced known incorrect or oversimplified upstream examples with target-checked engineering steps; see MIGRATION.md.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "c62a133a50c794d0095b7dd8ed551cb3dd2565591375e6e49b95679346bf9710"
+}

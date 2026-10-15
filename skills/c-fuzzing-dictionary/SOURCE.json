@@ -1,0 +1,17 @@
+{
+  "repo": "trailofbits-skills",
+  "url": "https://github.com/trailofbits/skills",
+  "license": "CC-BY-SA-4.0",
+  "source_path": "plugins/testing-handbook-skills/skills/fuzzing-dictionary",
+  "name": "c-fuzzing-dictionary",
+  "group": "C 主机测试",
+  "mode": "selected-copy",
+  "commit": "8e54050ae63c2f62224c35b1616efe71865b4777",
+  "source_url": "https://github.com/trailofbits/skills/tree/8e54050ae63c2f62224c35b1616efe71865b4777/plugins/testing-handbook-skills/skills/fuzzing-dictionary",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Restricted to host-testable C/C++ firmware and removed Rust integrations; corrected virtual-address/RSS confusion where present.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "b71fa7cab36ca466647123efa07c665c1968661f6d5060d9ac0cbb7f7599f7e0"
+}

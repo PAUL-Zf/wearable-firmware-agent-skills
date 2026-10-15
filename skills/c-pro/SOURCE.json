@@ -1,0 +1,17 @@
+{
+  "repo": "agentic-awesome-skills",
+  "url": "https://github.com/sickn33/agentic-awesome-skills",
+  "license": "MIT",
+  "source_path": "plugins/agentic-awesome-skills-claude/skills/c-pro",
+  "name": "c-pro",
+  "group": "C 与 Cortex-M",
+  "mode": "adapted-extract",
+  "commit": "a3072641b750a1fb2f6ce695a5f984ea3d4c3ec1",
+  "source_url": "https://github.com/sickn33/agentic-awesome-skills/tree/a3072641b750a1fb2f6ce695a5f984ea3d4c3ec1/plugins/agentic-awesome-skills-claude/skills/c-pro",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "65284a231f9ae8d0d068a2fb52a0333dc920afedb7b191b2a22b1d6e97bec824"
+}
