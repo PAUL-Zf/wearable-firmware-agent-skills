@@ -1,0 +1,16 @@
+{
+  "repo": "embedded-agent-skills",
+  "url": "https://github.com/iharhl/embedded-agent-skills",
+  "license": "MIT",
+  "source_path": "skills/memory-optimization-embedded",
+  "name": "memory-optimization-embedded",
+  "group": "固件评审",
+  "mode": "selected-copy",
+  "commit": "1f46f2c4409e8179864babc87b8d38e24294336c",
+  "source_url": "https://github.com/iharhl/embedded-agent-skills/tree/1f46f2c4409e8179864babc87b8d38e24294336c/skills/memory-optimization-embedded",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "7e9d5f739d8f237427292f3b9491610dcbcf2b614272feda8f41fffd5b571ec2"
+}

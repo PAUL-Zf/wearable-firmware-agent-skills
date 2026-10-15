@@ -1,0 +1,17 @@
+{
+  "repo": "LibreEmbed-Claude-Code",
+  "url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code",
+  "license": "MIT",
+  "source_path": "plugins/debug-trace/skills/debug-trace-patterns",
+  "name": "libre-debug-trace-patterns",
+  "group": "MCU 模式库",
+  "mode": "adapted-extract",
+  "commit": "b3840586de7181db1cfb04214f8fbdb49a63ab09",
+  "source_url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code/tree/b3840586de7181db1cfb04214f8fbdb49a63ab09/plugins/debug-trace/skills/debug-trace-patterns",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "3a7d8b36fe25f4a9309f21a4314e7d9cbe1e33ffc3fcb044060f77b6178f9f5e"
+}

@@ -1,0 +1,17 @@
+{
+  "repo": "LibreEmbed-Claude-Code",
+  "url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code",
+  "license": "MIT",
+  "source_path": "plugins/power-management/skills/power-mgmt-patterns",
+  "name": "libre-power-mgmt-patterns",
+  "group": "MCU 模式库",
+  "mode": "adapted-extract",
+  "commit": "b3840586de7181db1cfb04214f8fbdb49a63ab09",
+  "source_url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code/tree/b3840586de7181db1cfb04214f8fbdb49a63ab09/plugins/power-management/skills/power-mgmt-patterns",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "516a959e11dc8bd61960b80535a32d7a9fa6a97a62945fe5f30272761fad9f97"
+}

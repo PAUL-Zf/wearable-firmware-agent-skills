@@ -1,0 +1,16 @@
+{
+  "repo": "low-level-dev-skills",
+  "url": "https://github.com/mohitmishra786/low-level-dev-skills",
+  "license": "MIT",
+  "source_path": "skills/embedded/linker-scripts",
+  "name": "mcu-linker-scripts",
+  "group": "C 工具链与裸机",
+  "mode": "selected-copy",
+  "commit": "bdc58472fa9f309ed1b3f7d985a0d8e9bd8f4608",
+  "source_url": "https://github.com/mohitmishra786/low-level-dev-skills/tree/bdc58472fa9f309ed1b3f7d985a0d8e9bd8f4608/skills/embedded/linker-scripts",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "9e7f8d9066bb83370174a71d5a79702835b3791590058ae12951d5686882bb96"
+}

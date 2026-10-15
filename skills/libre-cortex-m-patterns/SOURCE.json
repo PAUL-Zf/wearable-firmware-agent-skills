@@ -1,0 +1,17 @@
+{
+  "repo": "LibreEmbed-Claude-Code",
+  "url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code",
+  "license": "MIT",
+  "source_path": "plugins/arm-cortex-m/skills/cortex-m-patterns",
+  "name": "libre-cortex-m-patterns",
+  "group": "MCU 模式库",
+  "mode": "adapted-extract",
+  "commit": "b3840586de7181db1cfb04214f8fbdb49a63ab09",
+  "source_url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code/tree/b3840586de7181db1cfb04214f8fbdb49a63ab09/plugins/arm-cortex-m/skills/cortex-m-patterns",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "5585bc8e52f110a70adecd3a7628fc3a55f6f959defe610087aa9689ce994dfb"
+}

@@ -1,0 +1,16 @@
+{
+  "repo": "low-level-dev-skills",
+  "url": "https://github.com/mohitmishra786/low-level-dev-skills",
+  "license": "MIT",
+  "source_path": "skills/baremetal/baremetal-startup",
+  "name": "mcu-baremetal-startup",
+  "group": "C 工具链与裸机",
+  "mode": "selected-copy",
+  "commit": "bdc58472fa9f309ed1b3f7d985a0d8e9bd8f4608",
+  "source_url": "https://github.com/mohitmishra786/low-level-dev-skills/tree/bdc58472fa9f309ed1b3f7d985a0d8e9bd8f4608/skills/baremetal/baremetal-startup",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "b4c0fc9a507450ca0e3cacbea9b52394829046f8ddd13222c24d32375155f04d"
+}

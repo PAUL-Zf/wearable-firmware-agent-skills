@@ -1,0 +1,17 @@
+{
+  "repo": "LibreEmbed-Claude-Code",
+  "url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code",
+  "license": "MIT",
+  "source_path": "plugins/firmware-update/skills/firmware-update-patterns",
+  "name": "libre-firmware-update-patterns",
+  "group": "MCU 模式库",
+  "mode": "adapted-extract",
+  "commit": "b3840586de7181db1cfb04214f8fbdb49a63ab09",
+  "source_url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code/tree/b3840586de7181db1cfb04214f8fbdb49a63ab09/plugins/firmware-update/skills/firmware-update-patterns",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "d12100d639a9918c83b561998c9aeffa7bb5ee7f996493c7d78b089b0ade7920"
+}

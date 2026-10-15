@@ -1,0 +1,17 @@
+{
+  "repo": "LibreEmbed-Claude-Code",
+  "url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code",
+  "license": "MIT",
+  "source_path": "plugins/embedded-testing/skills/embedded-testing-patterns",
+  "name": "libre-embedded-testing-patterns",
+  "group": "MCU 模式库",
+  "mode": "adapted-extract",
+  "commit": "b3840586de7181db1cfb04214f8fbdb49a63ab09",
+  "source_url": "https://github.com/Ormus-Solutions/LibreEmbed-Claude-Code/tree/b3840586de7181db1cfb04214f8fbdb49a63ab09/plugins/embedded-testing/skills/embedded-testing-patterns",
+  "changes": [
+    "Normalized name/description frontmatter; added standalone license and pinned provenance.",
+    "Extracted/reworked MCU/C guidance; omitted unrelated languages and unverified platform snippets.",
+    "Rewrote selected cross-skill links to local names; kept available unselected references as pinned upstream links."
+  ],
+  "original_skill_sha256": "fe22c37e43865c4c150c8f375d8f4db1f7f849d5d504ed2755ee9955f97a0540"
+}
